@@ -12,6 +12,14 @@ public class APITest {
 	}
 	
 	@Test
+	public void postJIRA1()
+	{
+		System.out.println("postJIRA4");
+		System.out.println("postJIRA5");
+		System.out.println("postJIRA6");
+	}
+	
+	@Test
 	public void deleteTwitter()
 	{
 		System.out.println("deleteTwitter");
